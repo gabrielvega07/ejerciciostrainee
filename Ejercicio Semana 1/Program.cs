@@ -34,9 +34,9 @@ else
 
 }
 
-if (numero  < 2)
+if (numero  <= 2)
 {
-    primo = false;
+    primo = true;
     
 }
 else
