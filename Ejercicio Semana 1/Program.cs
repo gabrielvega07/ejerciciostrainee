@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using System.Security.Cryptography;
 
 int numero = 0;
 bool primo = true;
