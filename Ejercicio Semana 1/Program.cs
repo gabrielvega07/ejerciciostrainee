@@ -14,7 +14,7 @@ if (numero > 100)
     Console.WriteLine("El numero es mayor a 100.");
 
 }
-if (numero < 100)
+else if (numero < 100)
 {
     Console.WriteLine("El numero es menor a 100.");
 
