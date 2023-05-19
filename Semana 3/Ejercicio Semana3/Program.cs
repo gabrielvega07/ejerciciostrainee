@@ -12,8 +12,6 @@ listaAlumnos.Add(new clsAlumno("Carlos", "López", 003, "Arquitectura", new List
 listaAlumnos.Add(new clsAlumno("Laura", "Rodríguez", 004, "Derecho", new List<double> { 6, 5, 7, 6, 6 }));
 listaAlumnos.Add(new clsAlumno("Luis", "Martínez", 005, "Economía", new List<double> { 8, 7, 6, 8, 9 }));
 
-//clsAlumno alumno1 = new("Juan", "Perez", "001", new List<double> (5, 5, 5, 5, 5));
-
 Console.WriteLine("Lista completa de estudiantes: ");
 
 foreach(clsAlumno alumno in listaAlumnos)
