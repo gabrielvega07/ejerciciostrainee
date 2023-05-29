@@ -4,38 +4,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjercicioSemana4
+namespace RetoSemanal4
 {
-    // Clase clsBiblioteca que implementa la interfaz IBiblioteca
+    // Clase clsBiblioteca que implementa IBiblioteca
     class clsBiblioteca : IBiblioteca
     {
         private List<clsMaterial> materiales;
 
-        // Constructor
         public clsBiblioteca()
         {
             materiales = new List<clsMaterial>();
         }
 
-        // Implementación de los métodos de la interfaz IBiblioteca
         public void AgregarMaterial(clsMaterial material)
         {
             materiales.Add(material);
-            Console.WriteLine("Se ha agregado un nuevo material a la biblioteca: '{0}'", material.Titulo);
+            Console.WriteLine("Se agregó el material '{0}' a la biblioteca.", material.Titulo);
         }
 
         public List<clsMaterial> BuscarPorTitulo(string titulo)
         {
             List<clsMaterial> resultados = new List<clsMaterial>();
-
             foreach (clsMaterial material in materiales)
             {
-                if (material.Titulo.Equals(titulo, StringComparison.OrdinalIgnoreCase))
+                if (material.Titulo.ToLower().Contains(titulo.ToLower()))
                 {
                     resultados.Add(material);
                 }
             }
-
             return resultados;
         }
 
@@ -45,10 +41,19 @@ namespace EjercicioSemana4
             {
                 material.Disponible = false;
                 Console.WriteLine("Se ha prestado el material: '{0}'", material.Titulo);
+                if (material is Libro libro)
+                {
+                    Console.WriteLine(libro.ToString());
+                }
+
+                else if (material is Revista revista)
+                {
+                    Console.WriteLine(revista.ToString());
+                }
             }
             else
             {
-                Console.WriteLine("El material '{0}' no está disponible para préstamo.", material.Titulo);
+                Console.WriteLine("El material '{0}' no está disponible actualmente para préstamo.", material.Titulo);
             }
         }
 
@@ -61,7 +66,7 @@ namespace EjercicioSemana4
             }
             else
             {
-                Console.WriteLine("El material '{0}' no se puede devolver porque no estaba prestado.", material.Titulo);
+                Console.WriteLine("El material '{0}' no está prestado actualmente.", material.Titulo);
             }
         }
     }

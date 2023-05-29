@@ -4,20 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjercicioSemana4
+namespace RetoSemanal4
 {
-    // Clase clsRevista que hereda de clsMaterial
-    class clsRevista : clsMaterial
+    // Clase Revista que hereda de clsMaterial
+    class Revista : clsMaterial
     {
-        public int Edicion { get; set; }
+        public string Edicion { get; set; }
 
-        // Constructor
-        public clsRevista(string titulo, int edicion) : base(titulo)
+        public Revista(string titulo, string edicion) : base(titulo)
         {
             Edicion = edicion;
         }
 
-        // Método para prestar la revista
         public void Prestar()
         {
             if (Disponible)
@@ -27,8 +25,14 @@ namespace EjercicioSemana4
             }
             else
             {
-                Console.WriteLine("La revista '{0}' no está disponible para préstamo.", Titulo);
+                Console.WriteLine("La revista '{0}' no está disponible actualmente.", Titulo);
             }
         }
+
+        public override string ToString()
+        {
+            return $"Revista: {Titulo} (Edición: {Edicion})";
+        }
     }
+
 }

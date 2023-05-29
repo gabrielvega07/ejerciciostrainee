@@ -1,52 +1,49 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using EjercicioSemana4;
-
-
-// Crear instancia de la biblioteca
+using RetoSemanal4;
 clsBiblioteca biblioteca = new clsBiblioteca();
 
-// Crear instancias de libros y revistas
-clsLibro libro1 = new clsLibro("El Gran Gatsby", "F. Scott Fitzgerald");
-clsLibro libro2 = new clsLibro("Cien años de soledad", "Gabriel García Márquez");
-clsRevista revista1 = new clsRevista("National Geographic", 123);
-clsRevista revista2 = new clsRevista("Time", 456);
+// Crear instancias de Libro y Revista
+Libro libro1 = new Libro("Cien años de soledad", "Gabriel García Márquez");
+Libro libro2 = new Libro("1984", "George Orwell");
+Libro libro3 = new Libro("Cien años", "Gabriel García Márquez");
+Revista revista1 = new Revista("National Geographic", "Mayo 2023");
+Revista revista2 = new Revista("National Geographic", "Mayo 2022");
 
 // Agregar materiales a la biblioteca
 biblioteca.AgregarMaterial(libro1);
 biblioteca.AgregarMaterial(libro2);
+biblioteca.AgregarMaterial(libro3);
 biblioteca.AgregarMaterial(revista1);
 biblioteca.AgregarMaterial(revista2);
 
 // Búsqueda por título
-string tituloBusqueda = "Gatsby";
-List<clsMaterial> resultadosBusqueda = biblioteca.BuscarPorTitulo(tituloBusqueda);
-Console.WriteLine("Resultados de la búsqueda por título '{0}':", tituloBusqueda);
-if (resultadosBusqueda.Count > 0)
+Console.WriteLine("Búsqueda por título: 'cien'");
+List<clsMaterial> resultados = biblioteca.BuscarPorTitulo("cien");
+if (resultados.Count > 0)
 {
-    foreach (clsMaterial material in resultadosBusqueda)
+    Console.WriteLine("Resultados de la búsqueda:");
+    for (int i = 0; i < resultados.Count; i++)
     {
-        Console.WriteLine("- {0}", material.Titulo);
+        Console.WriteLine("{0}. {1} ({2})", i + 1, resultados[i].Titulo, resultados[i].GetType().Name);
+    }
+
+    Console.WriteLine("Ingrese el número del material que desea prestar:");
+    int seleccion = int.Parse(Console.ReadLine());
+
+    if (seleccion > 0 && seleccion <= resultados.Count)
+    {
+        clsMaterial materialSeleccionado = resultados[seleccion - 1];
+        biblioteca.PrestarMaterial(materialSeleccionado);
+    }
+    else
+    {
+        Console.WriteLine("Selección inválida.");
     }
 }
 else
 {
-    Console.WriteLine("No se encontraron resultados.");
+    Console.WriteLine("No se encontraron materiales con ese título.");
 }
 
-Console.WriteLine();
-
-// Préstamo de material
-biblioteca.PrestarMaterial(libro1);
-biblioteca.PrestarMaterial(revista1);
-biblioteca.PrestarMaterial(libro2);
-
-Console.WriteLine();
-
-// Devolución de material
-biblioteca.DevolverMaterial(libro1);
-biblioteca.DevolverMaterial(revista1);
-biblioteca.DevolverMaterial(libro2);
-
 Console.ReadLine();
-

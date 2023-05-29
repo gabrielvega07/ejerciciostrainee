@@ -4,37 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
-// Clase clsLibro que hereda de clsMaterial
-
-namespace EjercicioSemana4
+namespace RetoSemanal4
 {
-    class clsLibro : clsMaterial
+    // Clase Libro que hereda de clsMaterial
+    class Libro : clsMaterial
     {
         public string Autor { get; set; }
 
-        // Constructor
-        public clsLibro(string titulo, string autor) : base(titulo)
+        public Libro(string titulo, string autor) : base(titulo)
         {
             Autor = autor;
         }
 
-        // Método para prestar el libro
         public void Prestar()
         {
             if (Disponible)
             {
                 Disponible = false;
-                Console.WriteLine("El libro '{0}' ha sido prestado.", Titulo);
+                Console.WriteLine("El libro '{0}' ha sido prestado.", Titulo, Autor);
             }
             else
             {
-                Console.WriteLine("El libro '{0}' no está disponible para préstamo.", Titulo);
+                Console.WriteLine("El libro '{0}' no está disponible actualmente.", Titulo);
             }
         }
 
-        // Método para devolver el libro
         public void Devolver()
         {
             if (!Disponible)
@@ -44,8 +38,13 @@ namespace EjercicioSemana4
             }
             else
             {
-                Console.WriteLine("El libro '{0}' no se puede devolver porque no estaba prestado.", Titulo);
+                Console.WriteLine("El libro '{0}' ya está disponible en la biblioteca.", Titulo);
             }
+        }
+
+        public override string ToString()
+        {
+            return $"Libro: {Titulo} (Autor: {Autor})";
         }
     }
 }

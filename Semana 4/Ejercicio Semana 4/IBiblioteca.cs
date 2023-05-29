@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjercicioSemana4
+namespace RetoSemanal4
 {
     // Interfaz IBiblioteca
     interface IBiblioteca
