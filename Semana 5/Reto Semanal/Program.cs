@@ -3,7 +3,7 @@
 
 using EjerccioSemana5;
 
-Console.WriteLine("¡Bienvenido al juego de aventuras!");
+Console.WriteLine("Bienvenido al juego R5");
 
 // Crear un nuevo jugador
 clsJugador jugador = CrearJugador();
