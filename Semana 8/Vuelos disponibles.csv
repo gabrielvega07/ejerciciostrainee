@@ -1,0 +1,1001 @@
+id,origen,destino,fecha,precio,aereopuerto
+1,Poland,Czech Republic,07/18/2023,$152.08,Ihosy Airport
+2,China,France,10/13/2023,$291.81,Vatukoula Airport
+3,Kyrgyzstan,Sweden,07/21/2023,$654.04,Yola Airport
+4,China,Lebanon,06/29/2023,$529.50,Long Akah Airport
+5,Russia,Brazil,01/05/2023,$463.15,Stornoway Airport
+6,Chile,Indonesia,08/22/2023,$337.37,Sharp County Regional Airport
+7,Nigeria,Czech Republic,07/20/2023,$143.15,Barking Sands Airport
+8,United States,Russia,04/13/2023,$214.05,Capital City Airport
+9,Russia,Palestinian Territory,02/11/2023,$739.85,Copenhagen Kastrup Airport
+10,Greece,United States,11/18/2022,$704.81,Pathankot Airport
+11,Mauritius,China,12/31/2022,$308.68,San Ramón Airport
+12,China,Cameroon,06/25/2023,$387.48,Rodelillo Airport
+13,Philippines,China,12/23/2023,$138.41,Guangzhou Baiyun International Airport
+14,China,Czech Republic,06/19/2022,$389.40,Warder Airport
+15,United States,Thailand,12/11/2022,$378.06,Braunschweig-Wolfsburg Airport
+16,Kazakhstan,Mexico,07/13/2022,$298.82,Cherokee County Airport
+17,San Marino,Poland,10/30/2022,$713.11,Santiago de Compostela Airport
+18,Philippines,Cameroon,11/01/2022,$595.68,Bawan Airport
+19,Uganda,Philippines,12/25/2023,$560.23,Illesheim Air Base
+20,China,Philippines,08/09/2023,$366.65,Port Clarence Coast Guard Station
+21,Ukraine,France,07/07/2023,$363.56,Dulkaninna Airport
+22,Nigeria,China,09/04/2023,$118.10,San Carlos Airport
+23,Russia,Chile,06/15/2023,$540.94,Kherson International Airport
+24,Indonesia,Poland,09/28/2023,$742.21,Whale Cove Airport
+25,Poland,China,11/12/2022,$544.56,Sywell Aerodrome
+26,Philippines,Uzbekistan,10/04/2023,$192.96,Falcone–Borsellino Airport
+27,China,North Korea,10/17/2022,$197.23,Smara Airport
+28,Honduras,Egypt,06/02/2023,$373.25,McMinn County Airport
+29,Venezuela,China,04/27/2023,$501.05,Billund Airport
+30,China,Brazil,11/06/2023,$646.07,Earl Henry Airport
+31,Vietnam,Sweden,12/08/2022,$194.78,Capitan Montes Airport
+32,Russia,Philippines,05/07/2023,$455.39,Dr Augusto Roberto Fuster International Airport
+33,Philippines,Brazil,11/30/2022,$558.84,Ivujivik Airport
+34,Indonesia,Philippines,09/14/2022,$634.35,Ceres Airport
+35,France,Comoros,10/12/2023,$340.50,Bouna Airport
+36,China,Indonesia,02/15/2023,$386.86,Porterville Municipal Airport
+37,China,Morocco,08/05/2022,$147.86,Grise Fiord Airport
+38,Mali,China,06/30/2023,$200.33,Birch Creek Airport
+39,Vietnam,China,12/22/2022,$563.69,San Ramón Airport
+40,Czech Republic,Russia,12/02/2023,$690.36,Alexander Field South Wood County Airport
+41,China,Peru,05/30/2023,$351.57,Mukah Airport
+42,Palau,Philippines,02/23/2023,$363.86,Edmonton International Airport
+43,Ukraine,Sweden,07/19/2023,$558.37,Coulter Field
+44,Honduras,China,06/24/2022,$574.71,Bukavu Kavumu Airport
+45,Portugal,China,01/05/2023,$523.86,Travis Air Force Base
+46,Tanzania,Bosnia and Herzegovina,10/23/2022,$203.58,Sulayel Airport
+47,Japan,Kenya,02/17/2023,$483.18,Ouagadougou Airport
+48,China,France,12/23/2023,$565.57,Þingeyri Airport
+49,China,China,04/12/2023,$741.84,Düsseldorf Airport
+50,Guinea,China,11/08/2022,$510.56,Harrisburg International Airport
+51,Thailand,Russia,11/12/2023,$598.37,Tanga Airport
+52,Peru,Portugal,11/06/2023,$743.43,Jaffrey Airport Silver Ranch Airport
+53,Albania,Poland,04/07/2023,$471.82,Chernivtsi International Airport
+54,Costa Rica,China,09/10/2023,$555.02,Lake Placid Airport
+55,Malta,Sweden,09/17/2023,$539.41,Southern Cross Airport
+56,Pakistan,Ukraine,04/12/2023,$603.52,Jinnah International Airport
+57,Finland,Philippines,07/19/2022,$275.94,Oamaru Airport
+58,Canada,Poland,03/15/2023,$610.74,Usina Mandu Airport
+59,Indonesia,Russia,12/14/2023,$376.30,Sulayel Airport
+60,Nigeria,China,09/06/2023,$588.47,Koolburra Airport
+61,Ghana,Russia,12/26/2022,$367.88,Martubah Airport
+62,Ireland,Sweden,01/12/2023,$744.12,Lock Airport
+63,Peru,Portugal,09/02/2023,$579.04,Bantry Aerodrome
+64,New Zealand,China,08/05/2023,$311.89,Wellington International Airport
+65,Russia,France,07/17/2023,$472.71,John C. Munro Hamilton International Airport
+66,Japan,North Korea,02/06/2023,$497.63,Rotuma Airport
+67,Portugal,China,08/20/2023,$229.28,Prominent Hill Airport
+68,Russia,China,08/24/2023,$152.83,Lady Franklin Point Airport
+69,China,Greece,02/06/2023,$534.53,El Eden Airport
+70,China,Indonesia,04/19/2023,$425.46,Catarman National Airport
+71,Nicaragua,Poland,12/27/2023,$247.93,Bouna Airport
+72,China,South Korea,10/07/2023,$294.56,Chakcharan Airport
+73,Peru,Indonesia,03/19/2023,$593.70,Kili Airport
+74,Thailand,China,12/14/2023,$604.73,A L Mangham Jr. Regional Airport
+75,China,Russia,12/08/2022,$671.56,Guangzhou Baiyun International Airport
+76,El Salvador,France,09/11/2022,$646.45,Mardin Airport
+77,Japan,Brazil,02/12/2023,$350.43,Balmaceda Airport
+78,Philippines,China,12/04/2023,$134.14,Nesson Airport
+79,Armenia,China,11/30/2022,$222.66,Huesca/Pirineos Airport
+80,France,France,10/04/2022,$419.56,Ataq Airport
+81,China,France,06/29/2022,$560.33,Stony River 2 Airport
+82,Philippines,Russia,06/11/2023,$531.69,Riverside Airport
+83,China,Indonesia,03/20/2023,$749.06,Wollongong Airport
+84,Indonesia,Philippines,08/21/2023,$315.16,Patuxent River Naval Air Station (Trapnell Field)
+85,China,Thailand,07/08/2022,$447.26,Olsztyn-Mazury Airport
+86,Poland,China,11/26/2022,$289.20,Lismore Airport
+87,Panama,France,08/10/2023,$176.07,Chatham Islands-Tuuta Airport
+88,China,Belarus,06/24/2022,$209.31,Victoria International Airport
+89,China,Peru,05/01/2023,$369.80,OR Tambo International Airport
+90,Montenegro,Colombia,05/10/2023,$498.41,Kuching International Airport
+91,Ecuador,Uruguay,07/04/2023,$370.65,Fort Scott Municipal Airport
+92,Philippines,Gambia,06/07/2023,$704.25,Umba Airport
+93,Czech Republic,Japan,02/14/2023,$640.24,Augusta Regional At Bush Field
+94,Argentina,Greece,03/03/2023,$209.31,Yeerqiang Airport
+95,Peru,Colombia,11/16/2022,$560.21,Bob Quinn Lake Airport
+96,China,South Korea,09/29/2023,$397.88,Port Hawkesbury Airport
+97,Morocco,China,08/13/2022,$159.67,Fort Hope Airport
+98,Guatemala,Poland,06/04/2023,$684.67,Waverney Airport
+99,France,Indonesia,12/27/2023,$168.82,Fazenda Tucunaré Airport
+100,Mexico,China,04/04/2023,$463.33,Kantchari Airport
+101,Kazakhstan,Philippines,11/02/2023,$480.25,Kailashahar Airport
+102,China,Czech Republic,09/23/2022,$101.17,Phaplu Airport
+103,Nigeria,China,09/01/2023,$406.60,George Bush Intercontinental Houston Airport
+104,Philippines,Germany,10/02/2022,$558.90,Laurinburg Maxton Airport
+105,Sweden,Argentina,09/09/2022,$546.56,Arapoti Airport
+106,China,China,12/11/2023,$306.01,Cangapara Airport
+107,Sweden,Ukraine,01/24/2023,$643.69,St Louis Downtown Airport
+108,Philippines,China,06/13/2023,$526.28,Barcelonnette - Saint-Pons Airport
+109,Czech Republic,Indonesia,09/02/2023,$443.62,Stony Rapids Airport
+110,Panama,Poland,06/20/2022,$504.14,Dr. Arturo H. Illia Airport
+111,Vietnam,Pakistan,10/24/2023,$510.40,Carmel Valley
+112,China,China,08/10/2023,$629.12,Inhaca Airport
+113,Poland,Vietnam,07/16/2022,$354.59,Brevig Mission Airport
+114,Mozambique,Poland,10/27/2023,$387.43,Hanzhong Chenggu Airport
+115,Russia,Iran,12/13/2022,$559.75,Playa Grande Airport
+116,United States,China,03/14/2023,$301.78,Sivas Nuri Demirağ Airport
+117,Sweden,United States,07/30/2022,$402.21,Prince Albert Glass Field
+118,China,Indonesia,12/22/2022,$561.66,Monte Alegre Airport
+119,Brazil,Peru,08/11/2023,$179.23,Lewistown Municipal Airport
+120,Indonesia,China,11/11/2022,$463.57,Anadolu Airport
+121,China,Saint Pierre and Miquelon,07/06/2022,$477.75,Hiva Oa-Atuona Airport
+122,Yemen,Indonesia,03/16/2023,$739.95,Punta Cana International Airport
+123,China,Ireland,02/03/2023,$517.06,General WM J Fox Airfield
+124,Philippines,Brazil,12/14/2022,$111.34,Minot International Airport
+125,Russia,Sweden,09/06/2023,$257.27,Mamai Airport
+126,United Arab Emirates,China,06/26/2022,$520.28,Two Harbors Amphibious Terminal
+127,Thailand,Greece,07/25/2023,$159.84,Mechanics Bay Heliport
+128,Guatemala,Germany,12/13/2023,$376.55,Juruena Airport
+129,Sweden,United States,07/10/2022,$317.43,Boire Field
+130,Japan,Czech Republic,01/19/2023,$640.64,Feijó Airport
+131,Indonesia,Indonesia,10/28/2023,$618.91,Santa Elena de Uairen Airport
+132,Russia,Indonesia,06/22/2023,$468.26,Port Keats Airport
+133,Ireland,China,08/05/2022,$638.35,Caleta Olivia Airport
+134,Poland,France,05/11/2023,$586.10,Sembach Air Base
+135,Namibia,China,01/18/2023,$587.42,Kololo Airstrip
+136,China,Ireland,11/09/2022,$108.70,Nissan Island Airport
+137,Vietnam,Afghanistan,07/23/2022,$102.21,Aboisso Airport
+138,China,China,06/09/2023,$467.16,Lobatse Airport
+139,Greece,Portugal,09/24/2023,$326.04,Swift Current Airport
+140,Colombia,Canada,11/15/2023,$653.68,Molokai Airport
+141,Indonesia,Macedonia,12/15/2023,$711.49,Watertown Regional Airport
+142,Venezuela,United States,08/09/2023,$723.04,Kipnuk Airport
+143,Estonia,Czech Republic,06/13/2023,$463.09,Ndjili International Airport
+144,Sweden,Mongolia,11/26/2022,$618.28,Adıyaman Airport
+145,Portugal,Russia,11/08/2022,$685.74,Taiping (Tekah) Airport
+146,Brazil,Poland,06/19/2022,$734.33,Borroloola Airport
+147,Indonesia,Argentina,11/01/2023,$582.92,Kabri Dehar Airport
+148,Indonesia,Mexico,12/30/2023,$640.13,Rodelillo Airport
+149,China,Indonesia,03/07/2023,$256.89,Sematan Airport
+150,United States,Indonesia,10/16/2022,$378.70,Golden Triangle Regional Airport
+151,Russia,Japan,04/29/2023,$275.30,Puerto Armuelles Airport
+152,Ukraine,Indonesia,07/24/2023,$681.16,OR Tambo International Airport
+153,Brazil,Sweden,09/23/2023,$279.08,Kairuku Airport
+154,Sweden,China,06/30/2023,$249.36,Mazar I Sharif Airport
+155,Togo,United States,06/26/2023,$387.79,Bowen Airport
+156,China,China,02/04/2023,$599.77,Perry-Foley Airport
+157,Kazakhstan,Russia,09/01/2022,$534.11,Erie International Tom Ridge Field
+158,Philippines,France,11/09/2022,$316.83,Dubai Creek SPB
+159,China,France,11/22/2023,$327.21,Excursion Inlet Seaplane Base
+160,China,China,12/17/2023,$740.92,RAF Coningsby
+161,Uganda,Tunisia,11/28/2022,$555.04,Dongola Airport
+162,Honduras,Poland,10/27/2023,$654.07,Simón Bolívar International Airport
+163,Poland,Indonesia,10/26/2023,$215.72,Aggeneys Airport
+164,Philippines,Trinidad and Tobago,10/04/2022,$740.09,Dachuan Airport
+165,France,Poland,10/29/2022,$438.24,Kasiguncu Airport
+166,Pakistan,China,11/14/2023,$732.53,Nanjing Lukou Airport
+167,China,Indonesia,08/10/2023,$378.35,Faya Largeau Airport
+168,Ukraine,China,09/09/2022,$264.05,Taiwan Taoyuan International Airport
+169,Japan,Japan,12/22/2023,$369.67,De La Independencia Airport
+170,Bolivia,China,09/19/2022,$232.13,Midland Airpark
+171,South Africa,China,08/09/2022,$123.40,Tezpur Airport
+172,Ukraine,Ukraine,08/19/2023,$240.55,Okaukuejo Airport
+173,Russia,France,08/01/2023,$593.63,Camden Airport
+174,Russia,Canada,07/27/2023,$430.89,Mataveri Airport
+175,Peru,Mexico,08/22/2022,$109.45,Lensk Airport
+176,Mexico,Japan,10/20/2023,$268.38,Ampanihy Airport
+177,Russia,France,07/15/2022,$446.43,Nevers-Fourchambault Airport
+178,Indonesia,Portugal,06/29/2023,$221.24,Julius Nyerere International Airport
+179,Philippines,Micronesia,11/05/2023,$224.01,Rosita Airport
+180,Brazil,Ecuador,07/16/2023,$430.24,Jebel Ali Seaplane Base
+181,China,Namibia,06/07/2023,$316.40,Bizant Airport
+182,Syria,Canada,04/24/2023,$254.80,Glasgow International Airport
+183,Sweden,Czech Republic,11/20/2023,$175.30,Xanxerê Airport
+184,China,Philippines,06/02/2023,$158.29,Langebaanweg Airport
+185,France,Greece,06/25/2023,$270.95,Idiofa Airport
+186,Greece,Honduras,07/25/2023,$639.73,Marromeu Airport
+187,Philippines,United States,08/17/2023,$495.70,Preguiça Airport
+188,Philippines,China,12/27/2022,$277.06,Lidköping-Hovby Airport
+189,Tajikistan,Philippines,12/14/2023,$649.19,Amboseli Airport
+190,Argentina,China,01/19/2023,$590.52,Mettel Field
+191,Poland,Spain,10/02/2022,$415.05,Ebolowa Airport
+192,Vietnam,Indonesia,12/08/2022,$553.22,Laguindingan Airport
+193,Eritrea,Yemen,08/14/2023,$537.81,General Villegas Airport
+194,China,China,09/03/2022,$247.65,Chisana Airport
+195,Ukraine,Greece,02/17/2023,$494.35,Tom Price Airport
+196,Portugal,Portugal,10/04/2022,$340.35,Page Municipal Airport
+197,Netherlands,China,05/01/2023,$334.94,Bruce Campbell Field
+198,Poland,Jamaica,04/24/2023,$661.68,High Level Airport
+199,China,Poland,03/20/2023,$463.96,Melilla Airport
+200,Indonesia,Indonesia,06/13/2023,$519.87,Scarlett Martinez International Airport
+201,China,Sweden,07/28/2023,$614.66,Tadjoura Airport
+202,Argentina,China,12/30/2022,$597.63,Quezaltenango Airport
+203,Poland,Brazil,03/13/2023,$257.24,Barkley Regional Airport
+204,China,Mexico,04/01/2023,$609.79,Marshall Memorial Municipal Airport
+205,South Africa,Colombia,07/05/2023,$462.47,Lubumbashi International Airport
+206,China,Nigeria,10/13/2023,$588.00,Yakutat Airport
+207,Russia,Namibia,03/09/2023,$675.55,Ioma Airport
+208,China,Indonesia,07/25/2023,$733.07,Gurue Airport
+209,New Zealand,Malaysia,07/31/2023,$217.79,Ixtepec Airport
+210,China,Russia,02/21/2023,$653.42,Charata Airport
+211,Portugal,Sweden,04/28/2023,$127.88,Dr. Arturo H. Illia Airport
+212,China,Russia,07/16/2023,$347.57,Isisford Airport
+213,Vietnam,Albania,07/28/2022,$459.09,Saravane Airport
+214,China,Papua New Guinea,12/01/2022,$182.58,Makabana Airport
+215,Poland,Greece,12/25/2022,$128.02,Brigadeiro Camarão Airport
+216,France,Nigeria,07/31/2023,$132.12,Cairo Regional Airport
+217,China,Thailand,06/21/2023,$333.76,RNZAF Base Ohakea
+218,South Africa,Peru,05/24/2023,$245.84,Baie Comeau Airport
+219,Indonesia,Uzbekistan,08/31/2022,$437.93,Itokama Airport
+220,Russia,France,11/22/2023,$358.94,Poprad-Tatry Airport
+221,Indonesia,China,04/02/2023,$108.63,Lawrenceville Brunswick Municipal Airport
+222,Indonesia,China,04/19/2023,$675.03,Makkovik Airport
+223,Brazil,Philippines,08/11/2022,$600.07,Comandante Espora Airport
+224,Thailand,Finland,06/28/2022,$274.30,OR Tambo International Airport
+225,Peru,Indonesia,07/01/2022,$447.63,Douglas Municipal Airport
+226,Indonesia,Brazil,08/05/2022,$260.50,Roswell International Air Center Airport
+227,Poland,Indonesia,03/23/2023,$222.60,Merle K (Mudhole) Smith Airport
+228,Greece,Jamaica,07/11/2023,$480.06,Kazi Nazrul Islam Airport
+229,Portugal,Dominican Republic,07/28/2023,$500.81,Mariupol International Airport
+230,Portugal,Argentina,10/29/2022,$206.59,Tampere-Pirkkala Airport
+231,Cuba,China,06/22/2022,$195.31,Nicaro Airport
+232,Poland,China,09/28/2022,$648.46,Narvik Framnes Airport
+233,Bosnia and Herzegovina,China,07/21/2023,$602.18,Madison Municipal Airport
+234,Mexico,Thailand,07/30/2022,$629.56,Pierre Regional Airport
+235,Ethiopia,Ukraine,10/24/2023,$529.97,Bannu Airport
+236,Indonesia,China,04/16/2023,$589.64,Wiley Post Airport
+237,United States,Italy,12/01/2023,$650.29,Yedinka Airport
+238,United States,Germany,01/01/2023,$541.37,Rutland - Southern Vermont Regional Airport
+239,Sweden,Guatemala,08/18/2023,$109.77,Olive Branch Airport
+240,China,Philippines,09/16/2022,$594.50,Papa Stour Airport
+241,China,Liberia,11/03/2023,$633.56,Long Apung Airport
+242,China,China,10/14/2023,$212.80,La Romaine Airport
+243,Portugal,China,07/06/2023,$336.31,Santa Bárbara Airport
+244,France,Russia,06/11/2023,$120.73,Suabi Airport
+245,Armenia,Indonesia,07/18/2022,$305.09,Pichoy Airport
+246,Portugal,Netherlands,06/22/2023,$362.58,Kalskag Airport
+247,China,China,09/08/2022,$541.26,Atlas Brasil Cantanhede Airport
+248,United States,Japan,10/25/2023,$454.72,Krasnodar Pashkovsky International Airport
+249,Indonesia,Czech Republic,02/26/2023,$510.95,Stockholm Västerås Airport
+250,Indonesia,Thailand,11/19/2023,$625.43,Campo Grande Airport
+251,Syria,Brazil,06/01/2023,$285.41,Yandina Airport
+252,Philippines,Norway,03/08/2023,$223.91,Yevlakh Airport
+253,Philippines,Indonesia,10/23/2022,$240.90,Riverton Regional Airport
+254,Malaysia,Ukraine,11/29/2022,$419.13,Fazenda Cataco Airport
+255,Indonesia,China,11/01/2022,$474.76,Ålesund Airport
+256,Lithuania,Portugal,12/10/2022,$737.03,Alliance Municipal Airport
+257,South Sudan,Honduras,06/18/2023,$459.50,Hattiesburg Laurel Regional Airport
+258,Peru,Philippines,08/05/2022,$342.86,Downtown-Manhattan/Wall St Heliport
+259,Russia,Russia,08/22/2023,$395.99,Arviat Airport
+260,Indonesia,China,11/26/2023,$366.57,Kurumoch International Airport
+261,Russia,Peru,12/17/2022,$234.01,Kiwai Airport
+262,China,Kazakhstan,02/08/2023,$152.97,Sepulot Airport
+263,Russia,Philippines,05/13/2023,$181.45,Porto Amboim Airport
+264,Ecuador,United States,11/07/2023,$214.78,Mattala Rajapaksa International Airport
+265,Indonesia,Nicaragua,07/25/2022,$528.82,Cherokee County Airport
+266,China,Mexico,05/26/2023,$523.45,Skardu Airport
+267,Kazakhstan,Iran,12/21/2023,$373.98,Sembach Air Base
+268,China,Italy,12/10/2023,$109.30,Metz-Nancy-Lorraine Airport
+269,Sweden,Poland,10/16/2022,$458.99,John Glenn Columbus International Airport
+270,Panama,Costa Rica,08/23/2023,$723.60,Khartoum International Airport
+271,Indonesia,Indonesia,12/20/2023,$484.44,Sara Airport
+272,Ukraine,Ukraine,05/23/2023,$738.52,Ben Gurion International Airport
+273,Latvia,Pakistan,12/04/2023,$565.44,Sedona Airport
+274,Canada,Indonesia,04/15/2023,$365.21,"Mo i Rana Airport, Røssvoll"
+275,China,China,09/08/2022,$534.02,Elorza Airport
+276,Peru,China,09/14/2022,$633.32,Bannu Airport
+277,China,Uganda,08/23/2022,$400.13,El Tor Airport
+278,Japan,Japan,12/24/2023,$159.70,Frans Kaisiepo Airport
+279,Russia,Ecuador,02/18/2023,$495.23,Nicosia International Airport
+280,Nicaragua,Japan,10/16/2023,$210.61,Kithira Airport
+281,Canada,Vietnam,11/22/2023,$129.61,Hinthada Airport
+282,Thailand,China,12/03/2023,$634.34,Épinal-Mirecourt Airport
+283,Philippines,Indonesia,08/14/2022,$203.36,Bentota River Waterdrome
+284,Norway,China,06/12/2023,$631.07,St Clair County Airport
+285,Indonesia,Poland,11/11/2022,$746.88,Northwest Arkansas Regional Airport
+286,France,Japan,08/10/2023,$351.39,Prince Rupert Airport
+287,China,Philippines,07/06/2023,$233.95,Chaudhary Charan Singh International Airport
+288,Indonesia,Zambia,08/01/2022,$616.25,Murray Island Airport
+289,Burkina Faso,China,09/19/2022,$734.23,Shannon Airport
+290,Brazil,Brazil,04/03/2023,$229.64,Merimbula Airport
+291,China,Yemen,09/08/2022,$572.71,Tri-Cities Regional TN/VA Airport
+292,Indonesia,China,10/04/2023,$486.39,Fleetlands Heliport
+293,United Kingdom,Brazil,04/28/2023,$627.50,Mamfe Airport
+294,Poland,Canada,09/19/2022,$238.32,Southport Airport
+295,Philippines,Argentina,10/25/2022,$505.82,Betioky Airport
+296,Colombia,Slovenia,06/19/2022,$431.01,Long Lellang Airport
+297,Brazil,Thailand,10/07/2023,$147.72,San Gabriel Valley Airport
+298,Philippines,Russia,05/11/2023,$482.81,Ascona Airport
+299,China,China,09/28/2022,$362.97,Kadhdhoo Airport
+300,Lithuania,Germany,11/30/2023,$572.87,Raba Raba Airport
+301,Portugal,Czech Republic,10/28/2022,$665.31,OR Tambo International Airport
+302,Bulgaria,Burkina Faso,11/08/2022,$317.33,Tabatinga Airport
+303,Mexico,Botswana,11/14/2022,$367.46,Kalamata Airport
+304,China,China,09/27/2023,$714.34,Takapoto Airport
+305,Russia,Philippines,05/27/2023,$541.06,Ulyanovsk East Airport
+306,Indonesia,Indonesia,04/20/2023,$136.00,Dabra Airport
+307,China,Philippines,08/16/2023,$325.06,Kalaeloa Airport
+308,Poland,China,10/29/2022,$435.01,Raiatea Airport
+309,Greece,North Korea,08/25/2023,$354.70,Langtang Airport
+310,United States,Turkmenistan,11/12/2022,$406.57,Samui Airport
+311,Morocco,France,09/06/2022,$185.30,Tepoe Airstrip
+312,China,China,08/08/2022,$585.13,Bezmer Air Base
+313,Serbia,Indonesia,03/05/2023,$269.08,Jinchuan Airport
+314,Indonesia,Indonesia,11/08/2023,$344.71,Maryborough Airport
+315,Zimbabwe,Brazil,04/03/2023,$696.54,Tanacross Airport
+316,Yemen,Afghanistan,06/19/2023,$603.73,Clayton Municipal Airpark
+317,Peru,Kosovo,12/20/2022,$121.81,Ulanqab Jining Airport
+318,Indonesia,France,07/14/2023,$320.83,Tinboli Airport
+319,China,Palestinian Territory,07/23/2023,$685.41,RAF Lossiemouth
+320,Chile,Peru,12/13/2023,$335.72,Angel Albino Corzo International Airport
+321,Brazil,Armenia,10/27/2023,$257.67,Rinkenberger Restricted Landing Area
+322,China,China,04/03/2023,$691.50,Mount Hotham Airport
+323,Indonesia,Serbia,06/21/2022,$708.40,Kryvyi Rih International Airport
+324,China,Japan,04/28/2023,$431.29,Grand Canyon Bar Ten Airstrip
+325,Greece,Indonesia,09/26/2022,$207.95,Portland Airport
+326,China,Equatorial Guinea,08/19/2023,$124.54,Decatur HI-Way Airfield
+327,Ukraine,Indonesia,12/05/2023,$354.84,Manang Airport
+328,Sweden,Paraguay,10/28/2023,$593.89,Sila Airport
+329,Philippines,Indonesia,04/25/2023,$272.46,Mende-Brenoux Airfield
+330,Russia,Philippines,02/17/2023,$452.08,Sumbawa Besar Airport
+331,Honduras,Philippines,02/25/2023,$560.67,Hesler Noble Field
+332,Canada,Cyprus,10/04/2023,$730.47,Hickory Regional Airport
+333,China,Japan,09/17/2023,$407.76,Kinston Regional Jetport At Stallings Field
+334,China,Indonesia,08/18/2023,$462.14,Kirovograd Airport
+335,Serbia,Venezuela,03/28/2023,$335.45,"Szczecin-Goleniów ""Solidarność"" Airport"
+336,Philippines,China,12/30/2023,$172.35,Hercílio Luz International Airport
+337,Philippines,Indonesia,10/30/2023,$310.96,Castlebar Airport
+338,China,Japan,08/11/2023,$620.41,Dryden Regional Airport
+339,Iran,Democratic Republic of the Congo,10/03/2023,$741.50,Falcon State Airport
+340,Indonesia,Mongolia,08/28/2023,$144.07,Salina Gunnison Airport
+341,Zambia,Spain,04/03/2023,$153.87,Radom Airport
+342,Indonesia,China,12/12/2022,$382.30,Smith Point Airport
+343,Indonesia,Philippines,03/22/2023,$671.71,Talakan Airport
+344,Syria,Japan,08/11/2023,$623.72,Wondoola Airport
+345,Russia,Slovenia,08/26/2023,$389.55,Fakahina Airport
+346,Bulgaria,Philippines,07/08/2022,$336.51,Coorabie Airport
+347,China,Indonesia,03/25/2023,$623.23,Mary's Harbour Airport
+348,Brazil,Indonesia,10/20/2022,$210.18,Vermilion Airport
+349,China,China,09/08/2023,$153.68,Maputo Airport
+350,United States,Sweden,06/27/2022,$126.96,Dr Ferdinand Lumban Tobing Airport
+351,Germany,France,12/28/2023,$299.15,Namtu Airport
+352,China,Russia,08/24/2022,$730.37,Fort Liard Airport
+353,Norway,Indonesia,11/14/2022,$412.11,Lengpui Airport
+354,Indonesia,Philippines,11/25/2023,$119.44,Alto Palena Airport
+355,Greece,Mozambique,07/23/2023,$299.03,Friedman Memorial Airport
+356,China,Brazil,09/17/2023,$550.75,Baie-Johan-Beetz Water Aerodrome
+357,Indonesia,Portugal,01/15/2023,$712.52,Susanville Municipal Airport
+358,China,Jamaica,12/23/2022,$182.09,Alerta Airport
+359,Albania,Israel,11/14/2023,$421.17,Lakefront Airport
+360,France,China,08/19/2022,$193.99,Ampampamena Airport
+361,China,Indonesia,09/27/2023,$633.99,Ibo Airport
+362,China,Guinea,09/13/2023,$210.92,Big Creek Airport
+363,China,Argentina,03/07/2023,$416.19,Melbourne Moorabbin Airport
+364,Brazil,Croatia,02/02/2023,$243.07,St Michael Airport
+365,China,Portugal,03/06/2023,$715.00,Cibao International Airport
+366,United States,United States,10/21/2022,$382.16,Kongolo Airport
+367,China,Peru,12/03/2022,$389.91,Chernivtsi International Airport
+368,Indonesia,Ukraine,09/14/2023,$298.69,Mariehamn Airport
+369,Slovenia,Poland,08/14/2023,$310.67,Hamadan Airport
+370,France,Brazil,12/12/2022,$364.69,Connemara Regional Airport
+371,Russia,China,05/15/2023,$190.93,Lugano Airport
+372,Philippines,Greece,07/13/2023,$198.55,Darchula Airport
+373,Brazil,Haiti,07/17/2023,$279.91,Park Rapids Municipal Konshok Field
+374,Brazil,Philippines,02/19/2023,$296.79,Libenge Airport
+375,Russia,Guatemala,04/26/2023,$256.38,Francisco Sarabia International Airport
+376,China,France,02/10/2023,$601.26,Pdte. Carlos Ibañez del Campo Airport
+377,France,Philippines,12/02/2022,$465.43,Boana Airport
+378,China,Ukraine,03/25/2023,$398.80,Annai Airport
+379,Thailand,Portugal,06/19/2023,$469.25,Val-d'Or Airport
+380,Hong Kong,Niger,11/22/2023,$498.26,Rostov-on-Don Airport
+381,Indonesia,Mexico,01/24/2023,$261.88,Austin Robert Mueller Municipal
+382,Brazil,Thailand,07/18/2022,$451.14,Pupelde Airport
+383,Brazil,Poland,03/03/2023,$388.94,Battle Mountain Airport
+384,Indonesia,Indonesia,08/13/2022,$102.20,Lee C Fine Memorial Airport
+385,Brazil,Russia,06/14/2023,$245.54,Korhogo Airport
+386,Russia,United Kingdom,09/10/2023,$232.06,Lannion-Côte de Granit Airport
+387,Philippines,Mexico,11/29/2023,$349.82,London Gatwick Airport
+388,Sweden,China,09/12/2023,$392.12,Beaumont Municipal Airport
+389,Brazil,Portugal,07/06/2023,$216.46,Mong Tong Airport
+390,China,China,03/14/2023,$330.64,Po Airport
+391,Indonesia,Indonesia,09/01/2023,$366.24,Gulfport Biloxi International Airport
+392,Colombia,China,09/29/2023,$510.60,Barrie-Orillia (Lake Simcoe Regional Airport)
+393,Armenia,Poland,11/29/2022,$392.93,Al Maktoum International Airport
+394,Greece,Lithuania,12/15/2022,$595.18,Key West International Airport
+395,Sweden,China,09/18/2023,$423.27,Austin Robert Mueller Municipal
+396,Greece,China,11/23/2022,$495.13,Takotna Airport
+397,Japan,Poland,09/15/2023,$485.48,Mojave Airport
+398,Portugal,Namibia,02/21/2023,$632.17,McKinley National Park Airport
+399,Russia,Russia,11/20/2023,$518.47,Kotakoli Airport
+400,China,Portugal,10/31/2022,$310.85,Bartolomeu Lisandro Airport
+401,Greece,China,11/12/2022,$680.94,Bali Airport
+402,Mali,China,10/03/2023,$741.84,Coen Airport
+403,China,Philippines,09/17/2022,$599.18,Tauramena Airport
+404,Vietnam,Azerbaijan,11/26/2022,$326.09,Kakhnovka Airfield
+405,Ecuador,Colombia,01/07/2023,$478.08,River Cess Airport/Heliport
+406,Indonesia,Greece,01/22/2023,$313.08,Bachigualato Federal International Airport
+407,Brazil,China,09/12/2023,$425.49,Bromont (Roland Desourdy) Airport
+408,Afghanistan,Grenada,03/24/2023,$454.75,Moises R. Espinosa Airport
+409,Russia,Ukraine,08/30/2023,$405.92,Ascona Airport
+410,France,Poland,11/03/2022,$290.36,Orientos Airport
+411,Brazil,Ivory Coast,04/26/2023,$193.89,Sumy Airport
+412,Philippines,Sweden,06/23/2023,$270.99,Dorado Beach Airport
+413,China,Croatia,09/20/2022,$730.62,Kaltag Airport
+414,China,Indonesia,11/13/2022,$572.55,Gooding Municipal Airport
+415,Czech Republic,Portugal,10/11/2023,$420.23,Pingtung North Airport
+416,Canada,Japan,09/07/2022,$611.06,Medina Airport
+417,Brazil,United States,08/07/2023,$623.67,Georgetown Airport
+418,Portugal,United States,01/20/2023,$607.43,Owen Roberts International Airport
+419,Argentina,China,08/01/2022,$450.40,Tabas Airport
+420,Indonesia,Netherlands,08/20/2023,$145.75,Khashm El Girba Airport
+421,China,Sweden,10/09/2023,$244.68,Valley International Airport
+422,China,France,12/30/2022,$431.19,Goulimime Airport
+423,Czech Republic,Malaysia,09/15/2022,$493.64,Newport State Airport
+424,China,Thailand,08/13/2022,$527.80,Manley Hot Springs Airport
+425,Indonesia,Sri Lanka,09/15/2023,$123.16,Soure Airport
+426,Poland,Indonesia,10/24/2023,$199.54,Grosseto Air Base
+427,Saint Barthelemy,Botswana,06/22/2023,$441.77,Tasiujaq Airport
+428,United States,Russia,11/15/2023,$679.29,Déline Airport
+429,Albania,Sweden,12/06/2022,$741.33,Erigavo Airport
+430,Indonesia,Poland,12/17/2023,$290.91,Surat Thani Airport
+431,Poland,Afghanistan,09/30/2022,$335.45,Balimo Airport
+432,Russia,Nigeria,04/14/2023,$339.22,Tatitlek Airport
+433,Indonesia,Canada,08/31/2022,$295.35,Les Sables-d'Olonne Talmont Airport
+434,Indonesia,Russia,06/26/2023,$530.69,Lusikisiki Airport
+435,Afghanistan,Russia,05/16/2023,$158.61,Friedrichshafen Airport
+436,Chile,Colombia,09/08/2022,$545.01,Jiujiang Lushan Airport
+437,Poland,United States,11/08/2023,$160.80,Antsalova Airport
+438,Russia,Nigeria,11/13/2023,$380.04,Virginia Highlands Airport
+439,Iran,Moldova,08/15/2023,$706.75,Monbetsu Airport
+440,Luxembourg,Ukraine,10/03/2023,$699.13,Skopje Alexander the Great Airport
+441,Argentina,Poland,09/06/2022,$676.88,Kalymnos Airport
+442,Indonesia,Afghanistan,10/29/2022,$378.20,Boralday Airport
+443,Indonesia,Cameroon,01/01/2023,$565.25,Ogubsucum Airport
+444,Israel,Pakistan,09/25/2022,$570.20,Jixi Xingkaihu Airport
+445,Indonesia,Indonesia,08/25/2022,$138.16,Rochester Airport
+446,Czech Republic,Philippines,07/01/2022,$654.85,Goulimime Airport
+447,Poland,Indonesia,03/21/2023,$337.57,Ouarzazate Airport
+448,China,Sweden,08/27/2022,$578.39,West 30th St. Heliport
+449,China,China,12/17/2022,$261.25,Baniyala Airport
+450,Argentina,Sweden,11/16/2022,$699.01,Dulkaninna Airport
+451,Croatia,Benin,02/04/2023,$202.08,Ayers Rock Connellan Airport
+452,Peru,Honduras,06/20/2022,$381.56,Bahir Dar Airport
+453,France,Brazil,02/03/2023,$110.80,Hamilton Field
+454,Cuba,Syria,12/22/2022,$544.20,Cherrabah Airport
+455,Indonesia,Norway,11/18/2022,$378.63,Mulan Airport
+456,Indonesia,Colombia,11/19/2022,$500.46,Telegraph Harbour Seaplane Base
+457,Sweden,China,10/28/2023,$253.29,Washington Island Airstrip
+458,Colombia,Poland,10/29/2023,$344.26,Nipa Airport
+459,Russia,Norway,08/10/2023,$339.61,Kilwa Masoko Airport
+460,Sweden,Thailand,10/27/2023,$730.21,Edson Airport
+461,Croatia,China,10/21/2022,$183.52,RAF Akrotiri
+462,Vietnam,China,01/20/2023,$393.97,Billiluna Airport
+463,Portugal,Mozambique,10/25/2023,$624.39,Jonesboro Municipal Airport
+464,Iran,France,05/22/2023,$703.04,Zahn's Airport
+465,China,Indonesia,04/17/2023,$714.77,Venâncio Aires Airport
+466,Colombia,Greece,11/02/2023,$559.39,Iwo Jima Airport
+467,Netherlands,China,02/23/2023,$347.59,Chimore Airport
+468,Mexico,China,04/25/2023,$511.48,Bayannur Tianjitai Airport
+469,Russia,Brazil,12/07/2023,$714.45,Nunam Iqua Airport
+470,China,Indonesia,01/15/2023,$578.37,Athen Helenikon Airport
+471,Indonesia,France,10/31/2023,$295.82,Matão Airport
+472,China,China,08/22/2023,$313.82,Sherman Army Air Field
+473,China,Panama,12/03/2022,$517.08,Lupin Airport
+474,United States,Indonesia,12/10/2022,$394.01,Hanamaki Airport
+475,Greece,China,10/30/2022,$360.44,Skukuza Airport
+476,Indonesia,Russia,02/16/2023,$551.31,Timaru Airport
+477,France,China,11/26/2023,$603.66,Tokushima Airport/JMSDF Air Base
+478,China,Ethiopia,06/30/2023,$335.68,Kalaeloa Airport
+479,Finland,Finland,04/12/2023,$279.26,Phan Rang Airport
+480,Czech Republic,Poland,08/18/2022,$231.96,Lake Baringo Airport
+481,United Kingdom,China,04/12/2023,$106.76,Cedar City Regional Airport
+482,Japan,Jordan,12/22/2023,$490.99,Mason City Municipal Airport
+483,Ireland,Pakistan,07/02/2023,$141.83,Diyawanna Oya Seaplane Base
+484,Afghanistan,Philippines,12/31/2022,$231.68,St Mary's Airport
+485,Greece,France,10/04/2022,$675.77,Socotra International Airport
+486,Philippines,New Zealand,08/23/2022,$172.31,Futuna Airport
+487,Russia,Argentina,01/10/2023,$421.99,Umiat Airport
+488,France,Poland,06/21/2023,$626.20,Thorshofn Airport
+489,France,Indonesia,12/24/2023,$152.74,Rafael Hernandez Airport
+490,Czech Republic,Colombia,07/31/2023,$636.38,Anguganak Airport
+491,Indonesia,Indonesia,01/01/2023,$401.64,El Golea Airport
+492,France,Indonesia,11/16/2023,$440.31,Owando Airport
+493,Peru,Poland,12/13/2023,$298.59,Chena Hot Springs Airport
+494,Paraguay,Ukraine,07/28/2023,$569.39,Bruce Campbell Field
+495,France,China,10/31/2022,$684.02,Rivers Airport
+496,China,Philippines,06/28/2022,$100.12,Downtown-Manhattan/Wall St Heliport
+497,Japan,Sweden,07/20/2022,$203.78,Candle 2 Airport
+498,China,Germany,03/01/2023,$325.27,Donaldson Airport
+499,France,China,12/14/2022,$345.61,Sinop Airport
+500,Japan,Mexico,02/18/2023,$307.57,Edward F Knapp State Airport
+501,Indonesia,Indonesia,09/10/2022,$634.36,Kimbe Airport
+502,Democratic Republic of the Congo,Indonesia,06/23/2022,$299.33,Offutt Air Force Base
+503,China,France,08/29/2023,$440.18,Satna Airport
+504,Indonesia,China,07/31/2022,$465.21,Matei Airport
+505,Egypt,Czech Republic,07/02/2022,$640.20,Kualanamu International Airport
+506,Chile,Indonesia,09/17/2022,$439.37,Matsapha Airport
+507,Portugal,Cuba,03/03/2023,$143.77,Karoola Airport
+508,China,Philippines,03/10/2023,$613.60,Yaoundé Airport
+509,Cambodia,Philippines,09/13/2022,$467.55,Chevery Airport
+510,Poland,Russia,07/17/2022,$275.09,Virac Airport
+511,Canada,Brazil,11/17/2023,$345.45,Kigali International Airport
+512,Philippines,Indonesia,08/16/2022,$419.76,Burgos Airport
+513,Poland,Sweden,06/28/2023,$396.67,Interlaken Air Base
+514,Colombia,China,08/02/2023,$206.63,Mount Hagen Kagamuga Airport
+515,Portugal,Albania,12/30/2022,$432.31,Arlit Airport
+516,China,Poland,11/30/2023,$475.71,Yaguara Airport
+517,China,Indonesia,09/15/2022,$202.99,Majors Airport
+518,Panama,Honduras,03/03/2023,$626.01,Warwick Airport
+519,Japan,Ukraine,07/04/2022,$614.49,Laura Airport
+520,China,China,01/27/2023,$159.24,Savannakhet Airport
+521,China,Kyrgyzstan,08/15/2022,$611.31,Columbia Airport
+522,Poland,Afghanistan,05/13/2023,$156.60,Çıldır Airport
+523,China,Sweden,12/16/2022,$316.67,Ocean Reef Club Airport
+524,Colombia,Comoros,04/29/2023,$134.41,El Tehuelche Airport
+525,Brazil,Portugal,02/19/2023,$318.59,Eleftherios Venizelos International Airport
+526,Indonesia,Guatemala,04/17/2023,$601.74,Ulanqab Jining Airport
+527,Portugal,China,04/26/2023,$571.97,Kurwina Airport
+528,China,China,12/29/2023,$565.86,Mansa Airport
+529,Indonesia,Philippines,09/20/2022,$177.68,Conakry International Airport
+530,Indonesia,China,07/05/2022,$322.81,Islas Malvinas Airport
+531,Colombia,China,10/06/2023,$496.17,Marechal Cunha Machado International Airport
+532,Russia,Mexico,01/30/2023,$562.38,Erzincan Airport
+533,Nigeria,Brazil,11/07/2022,$162.41,Cheikh Larbi Tébessi Airport
+534,Russia,China,07/26/2022,$745.57,Sparrevohn LRRS Airport
+535,Cambodia,Russia,09/04/2023,$669.70,Nashik Airport
+536,China,China,08/26/2022,$415.05,Cape Eleuthera Airport
+537,Thailand,France,07/13/2022,$504.54,Tzaneen Airport
+538,Madagascar,China,08/25/2023,$596.69,Sado Airport
+539,Russia,Indonesia,08/20/2023,$176.45,Chichen Itza International Airport
+540,Argentina,Japan,10/20/2023,$296.10,Leipzig/Halle Airport
+541,Brazil,Croatia,12/23/2023,$576.88,Canouan Airport
+542,Syria,Philippines,05/23/2023,$453.05,Fairmont Hot Springs Airport
+543,France,China,05/05/2023,$113.77,Iturup Airport
+544,Portugal,Philippines,05/02/2023,$374.70,Annecy-Haute-Savoie-Mont Blanc Airport
+545,Indonesia,Brazil,09/08/2022,$384.24,Teslin Airport
+546,Malaysia,Sweden,11/17/2022,$487.50,Muara Bungo Airport
+547,Malaysia,Russia,09/07/2022,$507.08,Uralsk Airport
+548,China,Belize,09/21/2023,$737.85,Chubu Centrair International Airport
+549,Indonesia,Argentina,10/11/2022,$490.08,Gothenburg-Landvetter Airport
+550,Indonesia,Belarus,04/14/2023,$335.44,Sigonella Navy Air Base
+551,Portugal,Sweden,12/04/2022,$266.61,Owatonna Degner Regional Airport
+552,China,Portugal,02/01/2023,$549.11,Vijayawada Airport
+553,Sri Lanka,Mexico,02/18/2023,$632.53,Rio Frio / Progreso Airport
+554,France,Indonesia,07/26/2022,$705.12,Charata Airport
+555,Indonesia,Russia,07/20/2022,$578.31,Mitchell Municipal Airport
+556,Mexico,Portugal,06/30/2023,$356.02,Suboficial Ay Santiago Germano Airport
+557,Indonesia,Brazil,09/17/2023,$579.29,Smith Point Airport
+558,Yemen,France,08/26/2022,$441.42,Hassi R'Mel Airport
+559,Greece,Myanmar,10/31/2022,$279.53,Tulaghi Heliport
+560,United States,Indonesia,08/21/2023,$637.13,Komodo Airport
+561,China,Central African Republic,08/31/2022,$601.60,Ebolowa Airport
+562,Japan,Ukraine,07/02/2023,$711.76,Camilo Ponce Enriquez Airport
+563,Kazakhstan,Philippines,11/08/2023,$631.15,Brus Laguna Airport
+564,Cambodia,China,07/14/2023,$539.46,Needles Airport
+565,Russia,Indonesia,05/01/2023,$342.94,Lake Buena Vista STOLport
+566,China,Russia,11/05/2022,$724.94,Hawke's Bay Airport
+567,Greece,Oman,06/27/2022,$616.63,Chacarita Airport
+568,France,Indonesia,10/25/2023,$293.59,Sunchales Aeroclub Airport
+569,Philippines,Colombia,10/23/2023,$503.02,Chisana Airport
+570,Indonesia,Russia,04/23/2023,$336.59,Manhattan Regional Airport
+571,China,Philippines,07/14/2022,$630.91,St Louis Regional Airport
+572,Uganda,Sweden,07/13/2023,$697.47,Yuanmou Air Base
+573,China,China,05/16/2023,$477.81,Fazenda Constância Airport
+574,China,Guatemala,12/30/2022,$744.53,Zona da Mata Regional Airport
+575,Japan,Tanzania,11/10/2023,$368.86,Tamana Island Airport
+576,China,Chile,10/09/2022,$353.24,Gordil Airport
+577,China,Czech Republic,03/25/2023,$608.23,Goroka Airport
+578,Brazil,Russia,07/08/2023,$639.21,Virgin Gorda Airport
+579,Central African Republic,Mexico,10/15/2023,$489.53,Arapoti Airport
+580,Indonesia,Brazil,10/22/2023,$199.62,Smith Point Airport
+581,Brazil,Czech Republic,08/22/2023,$628.01,Borroloola Airport
+582,Colombia,South Africa,10/04/2023,$734.93,Puerto Rico Airport
+583,Indonesia,Philippines,02/13/2023,$742.78,Hood Army Air Field
+584,Bangladesh,Belarus,06/06/2023,$178.85,Sur Airport
+585,Greece,Guatemala,10/29/2022,$195.78,Kullu Manali Airport
+586,Thailand,China,07/05/2023,$286.62,Debrecen International Airport
+587,Philippines,United States,10/28/2022,$221.91,Chetwynd Airport
+588,Indonesia,South Africa,07/16/2022,$679.69,Coban Airport
+589,Ukraine,South Korea,06/22/2023,$184.52,Hatay Airport
+590,Ireland,China,10/14/2022,$385.07,Storm Lake Municipal Airport
+591,Philippines,Indonesia,07/22/2022,$478.74,Limoges Airport
+592,China,Russia,01/07/2023,$433.42,Andahuaylas Airport
+593,Thailand,Japan,12/08/2023,$271.12,Anaa Airport
+594,Canada,Ukraine,07/12/2023,$499.41,Punta Chivato Airport
+595,Sweden,Indonesia,07/01/2022,$649.08,Sky Harbor Airport
+596,Peru,Pakistan,02/17/2023,$576.91,Quesnel Airport
+597,Philippines,Russia,04/22/2023,$226.12,Rarotonga International Airport
+598,Indonesia,China,07/25/2023,$217.13,Vancouver International Airport
+599,Poland,Cape Verde,10/23/2022,$529.72,Francisco de Sá Carneiro Airport
+600,Ukraine,Croatia,08/06/2022,$546.64,Reykjavik Airport
+601,Indonesia,Poland,07/27/2023,$225.66,Hughes Airport
+602,Zambia,Colombia,06/17/2022,$290.25,Beaumont Municipal Airport
+603,China,China,02/23/2023,$539.77,Thakhek Airport
+604,Brazil,Indonesia,02/20/2023,$504.33,Olyokminsk Airport
+605,Indonesia,Czech Republic,05/13/2023,$329.76,Hearst René Fontaine Municipal Airport
+606,Azerbaijan,Colombia,10/21/2022,$207.20,Moose Lake Airport
+607,Russia,United States,12/14/2023,$347.14,Michael AAF (Dugway Proving Ground) Airport
+608,China,Ireland,05/30/2023,$501.62,Caicara del Orinoco Airport
+609,Sweden,Botswana,09/28/2022,$634.77,Axum Airport
+610,Poland,Dominican Republic,11/13/2023,$602.96,General Mariano Escobedo International Airport
+611,Indonesia,Indonesia,11/25/2023,$504.41,Brescia Airport
+612,Micronesia,China,02/16/2023,$669.44,Upiara Airport
+613,Tunisia,Albania,11/14/2022,$161.56,Bunsil Airport
+614,United States,China,09/22/2023,$251.41,Andersen Air Force Base
+615,Indonesia,Venezuela,03/28/2023,$592.27,Piedmont Triad International Airport
+616,Kenya,France,12/13/2023,$566.93,Emporia Municipal Airport
+617,China,Brazil,03/06/2023,$461.28,Hutchinson County Airport
+618,Japan,Palestinian Territory,10/06/2023,$601.59,Baghdad International Airport
+619,Madagascar,Indonesia,11/10/2023,$380.28,Dijon-Bourgogne Airport
+620,Japan,China,07/02/2023,$663.01,Pickens County Airport
+621,Greece,Japan,10/18/2023,$204.06,Luleå Airport
+622,China,Indonesia,07/19/2023,$643.09,Kongolo Airport
+623,Portugal,Chile,09/16/2022,$737.14,Simikot Airport
+624,Thailand,Portugal,09/01/2022,$219.06,Macomb Municipal Airport
+625,Argentina,Uruguay,11/02/2022,$215.41,Mayajigua Airport
+626,South Africa,Jordan,01/09/2023,$435.48,Nunam Iqua Airport
+627,Vietnam,Samoa,03/27/2023,$180.29,Hinton/Jasper-Hinton Airport
+628,China,Brazil,02/12/2023,$236.78,Ross River Airport
+629,Brazil,China,01/14/2023,$596.29,Carti Airport
+630,China,China,08/20/2023,$654.91,Vanua Balavu Airport
+631,Indonesia,China,11/10/2022,$537.72,Raroia Airport
+632,Indonesia,Portugal,11/30/2022,$173.08,Oryol Yuzhny Airport
+633,Indonesia,Indonesia,03/11/2023,$635.65,Southwest Michigan Regional Airport
+634,Brazil,Peru,03/02/2023,$650.97,Lawrenceville Brunswick Municipal Airport
+635,Poland,Philippines,08/05/2022,$545.63,Walnut Ridge Regional Airport
+636,Russia,France,08/08/2022,$558.14,Cherif Al Idrissi Airport
+637,Peru,Vietnam,10/10/2023,$282.11,Tuticorin Airport
+638,Russia,Portugal,10/17/2023,$411.18,Koszalin Zegrze Pomorskie Air Base
+639,France,China,03/03/2023,$699.84,Kirk Field
+640,Thailand,China,09/18/2023,$174.71,Mandritsara Airport
+641,Portugal,Brazil,10/09/2022,$614.36,Mayor Buenaventura Vivas International Airport
+642,China,South Korea,07/25/2023,$475.39,Udorn Air Base
+643,China,Japan,05/14/2023,$653.41,Sir Bani Yas Airport
+644,Sweden,France,03/18/2023,$127.02,Santa Cruz Island Airport
+645,China,United States,07/17/2022,$148.34,Capanda Airport
+646,China,Philippines,12/19/2023,$189.93,Arctic Village Airport
+647,Chile,Russia,11/28/2022,$402.61,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport
+648,Indonesia,Egypt,08/14/2022,$456.32,Waukon Municipal Airport
+649,Sweden,El Salvador,05/18/2023,$337.64,McKellar-Sipes Regional Airport
+650,Panama,China,05/16/2023,$613.90,Cherrabah Airport
+651,China,Colombia,12/13/2023,$600.43,Ulsan Airport
+652,Portugal,China,10/02/2023,$135.43,Abeid Amani Karume International Airport
+653,Sweden,Brazil,12/08/2022,$549.03,Lake Murray Airport
+654,Czech Republic,China,09/17/2022,$150.56,Prado Airport
+655,Indonesia,Portugal,09/09/2023,$233.89,Ascención De Guarayos Airport
+656,Ethiopia,Croatia,08/18/2023,$431.34,Olavarria Airport
+657,Sweden,China,05/18/2023,$729.47,Geva Airport
+658,Kazakhstan,Brazil,06/17/2023,$211.73,Finley Airport
+659,Czech Republic,Poland,12/08/2023,$222.68,Kaanapali Airport
+660,Thailand,Sweden,04/05/2023,$291.12,Mercedes Airport
+661,China,Bulgaria,08/14/2022,$234.87,Hiroshimanishi Airport
+662,China,Palestinian Territory,10/12/2022,$159.15,Putao Airport
+663,Ukraine,Iraq,04/05/2023,$733.95,San Carlos
+664,Poland,Ukraine,08/23/2022,$401.68,Ann Arbor Municipal Airport
+665,Poland,Indonesia,06/14/2023,$148.57,Snake Bay Airport
+666,Tanzania,Russia,07/13/2023,$585.08,Alitak Seaplane Base
+667,Russia,Philippines,10/14/2022,$438.41,Henry County Airport
+668,China,Cuba,11/29/2023,$488.93,La Gomera Airport
+669,Indonesia,Portugal,12/11/2023,$252.56,Hudsons Hope Airport
+670,Portugal,China,05/15/2023,$659.67,Wonenara Airport
+671,Serbia,Azerbaijan,07/02/2022,$252.72,University of Oklahoma Westheimer Airport
+672,Sweden,Mexico,12/07/2022,$495.55,Phifer Airfield
+673,Italy,China,12/21/2022,$555.44,Tarapoa Airport
+674,Madagascar,Indonesia,09/03/2023,$248.59,Frans Sales Lega Airport
+675,China,Sweden,01/20/2023,$496.10,Margaret River (Station) Airport
+676,China,Colombia,09/26/2022,$668.49,Stebbins Airport
+677,China,Indonesia,09/06/2023,$171.99,Kaltag Airport
+678,Gambia,Peru,12/13/2022,$447.64,Tampa Padang Airport
+679,North Korea,China,04/02/2023,$675.01,Dasht-e Naz Airport
+680,Indonesia,Bolivia,09/19/2022,$669.46,Edmonton City Centre (Blatchford Field) Airport
+681,Indonesia,Indonesia,02/05/2023,$223.93,Lakefield Airport
+682,Ukraine,Russia,05/27/2023,$244.50,Fazenda Vassoural Airport
+683,Indonesia,China,07/26/2022,$193.62,Gobernador Horacio Guzman International Airport
+684,Greece,Venezuela,05/07/2023,$748.91,Heide-Büsum Airport
+685,United States,China,10/08/2022,$477.81,Kalemie Airport
+686,China,Indonesia,07/23/2022,$497.43,Metz-Frescaty (BA 128) Air Base
+687,Brazil,Macedonia,01/01/2023,$540.86,Rotuma Airport
+688,Vietnam,China,12/29/2023,$665.43,Gdańsk Lech Wałęsa Airport
+689,China,Cuba,07/26/2022,$145.18,Alexandra Airport
+690,Brazil,Indonesia,09/15/2022,$373.24,Las Malvinas/Echarate Airport
+691,China,Portugal,09/10/2023,$257.19,Lanzarote Airport
+692,Cuba,China,11/20/2022,$217.87,Castro Airport
+693,Canada,Finland,12/19/2023,$411.14,Isla Mujeres Airport
+694,Ukraine,Czech Republic,04/06/2023,$193.90,General Leite de Castro Airport
+695,Japan,Portugal,11/06/2023,$191.78,Defiance Memorial Airport
+696,Mexico,China,07/14/2023,$168.85,Mefford Field
+697,Colombia,Guatemala,01/25/2023,$550.23,Analalava Airport
+698,South Africa,Nigeria,03/08/2023,$600.87,Sélibaby Airport
+699,Portugal,Turkey,09/21/2023,$445.22,Halmstad Airport
+700,Russia,China,11/03/2022,$663.61,Valencia Airport
+701,China,China,09/01/2023,$700.86,Turaif Domestic Airport
+702,New Zealand,China,04/14/2023,$573.29,Tangará da Serra Airport
+703,Malaysia,Poland,04/28/2023,$390.11,Aek Godang Airport
+704,Serbia,France,03/01/2023,$644.00,Whale Pass Seaplane Float Harbor Facility
+705,Russia,Peru,01/13/2023,$658.39,Costa Marques Airport
+706,Indonesia,Bahamas,01/21/2023,$123.93,May River Airstrip
+707,Croatia,Togo,08/04/2023,$729.95,Mayne Island Seaplane Base
+708,Thailand,China,02/06/2023,$519.45,Venango Regional Airport
+709,Mexico,Poland,10/20/2022,$644.40,Marree Airport
+710,Brazil,Japan,01/18/2023,$527.71,Aarhus Airport
+711,Indonesia,China,01/20/2023,$504.07,Auburn Municipal Airport
+712,China,Thailand,11/11/2022,$505.95,Inhaca Airport
+713,China,Indonesia,12/26/2023,$154.87,Prince Rupert/Seal Cove Seaplane Base
+714,Venezuela,Croatia,08/28/2022,$542.89,Morlaix-Ploujean Airport
+715,Mexico,Greece,03/13/2023,$170.72,Moenjodaro Airport
+716,China,Japan,05/05/2023,$591.97,Dazu Air Base
+717,Serbia,Bangladesh,04/21/2023,$546.28,Wondai Airport
+718,Cuba,Indonesia,04/06/2023,$559.45,Wakkanai Airport
+719,Canada,Sweden,06/15/2023,$587.59,Helmuth Baungarten Airport
+720,Sweden,Argentina,08/10/2022,$649.32,Xi'an Xianyang International Airport
+721,Tanzania,Netherlands,09/20/2023,$572.43,Guanare Airport
+722,Colombia,Bosnia and Herzegovina,03/28/2023,$361.23,Uljin Airport
+723,China,Chad,08/09/2023,$383.07,Robert (Bob) Curtis Memorial Airport
+724,Indonesia,Philippines,09/25/2022,$265.07,Narvik Framnes Airport
+725,China,Mauritius,09/05/2023,$281.85,Fremont Municipal Airport
+726,Philippines,Western Sahara,01/17/2023,$186.61,Trondheim Airport Værnes
+727,Uganda,China,01/28/2023,$258.59,Guasopa Airport
+728,Indonesia,Philippines,09/28/2022,$471.49,Bird Island Airport
+729,Czech Republic,China,11/02/2023,$532.06,Grants-Milan Municipal Airport
+730,Vietnam,Indonesia,02/22/2023,$144.99,Cape Town International Airport
+731,Russia,Croatia,07/07/2022,$541.69,Gore Bay Manitoulin Airport
+732,Peru,China,09/29/2022,$373.56,Yaoundé Nsimalen International Airport
+733,Czech Republic,New Zealand,02/24/2023,$203.98,Longyan Guanzhishan Airport
+734,Brazil,Indonesia,10/28/2022,$193.80,Kristiansand Airport
+735,Bosnia and Herzegovina,Kenya,08/24/2022,$417.58,Qianjiang Wulingshan Airport
+736,China,American Samoa,07/07/2023,$219.05,Washington County Airport
+737,Thailand,Portugal,12/18/2023,$619.15,Nevers-Fourchambault Airport
+738,Poland,Mongolia,11/24/2022,$131.90,Alert Bay Airport
+739,France,Isle of Man,09/12/2022,$693.41,Moabi Airport
+740,Japan,Mozambique,07/06/2023,$608.79,Gitega Airport
+741,Czech Republic,Ukraine,01/25/2023,$493.28,Shanghai Pudong International Airport
+742,China,China,09/04/2023,$159.12,Tshikapa Airport
+743,Brazil,Senegal,09/20/2022,$100.81,Culion Airport
+744,China,Angola,12/14/2022,$664.42,Enrique Adolfo Jimenez Airport
+745,Indonesia,Indonesia,07/19/2023,$430.00,Cape Palmas Airport
+746,Indonesia,Moldova,09/16/2022,$601.22,Toksook Bay Airport
+747,Russia,Indonesia,01/19/2023,$316.20,Simmons Army Air Field
+748,Philippines,France,10/29/2023,$290.40,Sassandra Airport
+749,China,Estonia,07/09/2022,$714.48,Hollister Municipal Airport
+750,Indonesia,Morocco,12/08/2022,$539.70,Ängelholm-Helsingborg Airport
+751,Czech Republic,Indonesia,07/15/2022,$650.73,Retalhuleu Airport
+752,China,Uzbekistan,01/24/2023,$569.93,General Guadalupe Victoria International Airport
+753,Ukraine,Sweden,10/06/2023,$508.95,Opuwa Airport
+754,Nigeria,Poland,12/09/2022,$327.19,Kamina Airport
+755,China,France,01/27/2023,$235.64,Semnan Municipal Airport
+756,France,Armenia,05/20/2023,$499.52,Harry Clever Field
+757,Philippines,Iran,10/04/2023,$498.46,Icabarú Airport
+758,Indonesia,Netherlands,12/25/2022,$605.69,Juan Mendoza Airport
+759,Russia,Poland,06/26/2023,$430.36,Latrobe Airport
+760,United States,Albania,04/05/2023,$674.67,Praia International Airport
+761,Portugal,Czech Republic,07/06/2022,$136.47,Hat Yai International Airport
+762,Greece,Indonesia,09/14/2022,$508.68,Apalapsili Airport
+763,Finland,Syria,08/03/2022,$182.04,Cabo Frio Airport
+764,Brazil,Ecuador,06/19/2023,$187.94,Makabana Airport
+765,France,Belarus,03/11/2023,$453.46,Clearwater Air Park
+766,Thailand,Croatia,06/06/2023,$365.32,Portage Creek Airport
+767,Azerbaijan,Indonesia,01/09/2023,$738.77,Walgett Airport
+768,Albania,Moldova,11/16/2022,$449.26,San Jose Airport
+769,Portugal,Philippines,12/17/2022,$480.84,Lábrea Airport
+770,Poland,Russia,06/29/2023,$669.68,Northeast Ohio Regional Airport
+771,Poland,Philippines,10/05/2023,$698.89,Kandi Airport
+772,China,Uganda,10/24/2022,$431.52,Ramata Airport
+773,Armenia,Russia,12/05/2023,$601.23,Mooraberree Airport
+774,Russia,Greece,11/11/2022,$492.88,Salina Cruz Naval Air Station
+775,Indonesia,Czech Republic,12/29/2023,$199.43,McCall Municipal Airport
+776,United States,Portugal,10/18/2023,$462.40,Nantucket Memorial Airport
+777,China,Sweden,02/12/2023,$205.56,Tingwon Airport
+778,Philippines,Mongolia,04/24/2023,$144.04,Stykkishólmur Airport
+779,Portugal,Sweden,09/22/2022,$182.75,Napakiak Airport
+780,Poland,China,03/02/2023,$279.94,Manitouwadge Airport
+781,China,China,08/08/2022,$610.68,Qiqihar Sanjiazi Airport
+782,Portugal,China,10/01/2023,$518.41,Kangirsuk Airport
+783,China,Brazil,07/21/2023,$642.33,Nakhchivan Airport
+784,Mali,China,10/04/2022,$349.76,Karawari Airstrip
+785,Indonesia,China,11/26/2023,$141.55,Big Bell Airport
+786,Ukraine,Paraguay,02/05/2023,$662.77,Biniguni Airport
+787,Norway,Uruguay,03/22/2023,$288.98,Gainesville Municipal Airport
+788,Brazil,China,10/23/2023,$725.47,Springbok Airport
+789,Honduras,China,08/17/2022,$469.61,Băneasa International Airport
+790,Indonesia,Brazil,08/07/2022,$425.44,Ifuru Airport
+791,Democratic Republic of the Congo,Colombia,08/11/2023,$137.11,Boang Airport
+792,Czech Republic,Thailand,01/22/2023,$741.57,Giyani Airport
+793,Argentina,China,01/11/2023,$261.94,Akureyri Airport
+794,Russia,Panama,07/01/2023,$235.12,Wright AAF (Fort Stewart)/Midcoast Regional Airport
+795,Russia,Marshall Islands,08/23/2022,$558.30,Ambalabe Airport
+796,China,Latvia,12/21/2022,$260.41,Brunswick Golden Isles Airport
+797,China,Russia,10/12/2022,$224.95,Khwahan Airport
+798,Brazil,France,04/02/2023,$174.23,Cangyuan Washan Airport
+799,Canada,Saudi Arabia,08/19/2023,$346.16,Yapsiei Airport
+800,Peru,Portugal,12/25/2023,$695.07,Louisville International Standiford Field
+801,Kazakhstan,Bosnia and Herzegovina,10/22/2023,$234.56,Novo Horizonte Airport
+802,Indonesia,United States,12/16/2023,$479.16,Wageningen Airstrip
+803,Chile,Sweden,12/28/2022,$177.33,Casper-Natrona County International Airport
+804,Bangladesh,Japan,07/22/2023,$335.52,Fahud Airport
+805,Norway,Indonesia,08/03/2022,$313.09,Binbrook Airfield
+806,Canada,China,04/22/2023,$494.56,Breiðdalsvík Airport
+807,Czech Republic,Russia,08/15/2022,$503.18,Elko Regional Airport
+808,Sweden,Kenya,07/27/2023,$721.18,Nanjing Lukou Airport
+809,Philippines,Peru,09/08/2023,$303.49,La Roche-sur-Yon Airport
+810,Honduras,Indonesia,09/06/2023,$207.43,Lakeland Airport
+811,Peru,Kazakhstan,05/22/2023,$732.87,Yelizovo Airport
+812,China,Mexico,03/23/2023,$383.60,Lucca-Tassignano Airport
+813,Serbia,France,03/16/2023,$442.31,Ireland West Knock Airport
+814,Indonesia,Indonesia,09/01/2023,$731.14,Great Barrier Aerodrome
+815,Russia,Indonesia,07/08/2022,$420.34,Nantucket Memorial Airport
+816,Philippines,China,01/13/2023,$635.94,Simbai Airport
+817,Brazil,Netherlands,11/20/2023,$179.75,Narathiwat Airport
+818,China,Indonesia,12/09/2023,$528.41,Aksu Airport
+819,Sri Lanka,Panama,07/18/2023,$572.72,Monte Santo de Minas Airport
+820,Philippines,France,10/25/2022,$488.25,Mendi Airport
+821,Philippines,Poland,01/19/2023,$440.42,The O'Neill Municipal John L Baker Field
+822,Russia,Czech Republic,09/29/2022,$695.61,Kitsissuarsuit Heliport
+823,Bangladesh,Finland,07/24/2022,$491.97,Foula Airfield
+824,Croatia,China,07/20/2022,$380.81,Fontanges Airport
+825,Indonesia,Philippines,06/16/2022,$452.45,Petrozavodsk Airport
+826,Indonesia,Portugal,05/08/2023,$697.08,Quakertown Airport
+827,Thailand,Cape Verde,08/11/2022,$575.44,Gunung Batin Airport
+828,Sweden,Argentina,09/28/2023,$527.80,Likoma Island Airport
+829,Brazil,Philippines,07/01/2022,$364.79,Oconee County Regional Airport
+830,Andorra,Indonesia,12/07/2022,$212.52,Sambu Airport
+831,Indonesia,Serbia,01/29/2023,$537.79,Saint Louis Airport
+832,Brazil,Brazil,04/17/2023,$698.72,Hinton/Jasper-Hinton Airport
+833,Indonesia,China,04/08/2023,$395.31,Deputatskiy Airport
+834,Brazil,United States,06/17/2022,$409.62,Ibiza Airport
+835,Faroe Islands,Indonesia,10/04/2022,$655.94,Tauranga Airport
+836,Poland,Indonesia,10/27/2022,$597.30,Kashgar Airport
+837,Kazakhstan,Poland,08/01/2023,$747.36,Mojica Airport
+838,China,Colombia,08/13/2023,$304.11,Manapouri Airport
+839,Cameroon,Canada,12/12/2023,$485.90,Bari Karol Wojtyła Airport
+840,Lithuania,Kenya,08/15/2023,$145.03,High Level Airport
+841,Indonesia,Portugal,08/23/2023,$735.79,Mitiaro Island Airport
+842,Indonesia,Gambia,06/22/2023,$650.18,Gurue Airport
+843,Sri Lanka,Philippines,07/20/2022,$741.85,Ocala International Airport - Jim Taylor Field
+844,Ukraine,China,06/02/2023,$403.34,Baie Comeau Airport
+845,China,Palestinian Territory,09/30/2022,$384.69,Sila Airport
+846,Uganda,China,07/28/2022,$649.26,Oki Airport
+847,Indonesia,Greece,01/19/2023,$330.39,Fort McMurray / Mildred Lake Airport
+848,Latvia,Indonesia,07/22/2023,$154.58,Mikkeli Airport
+849,Russia,Costa Rica,05/22/2023,$312.88,Zachar Bay Seaplane Base
+850,United States,Philippines,10/22/2023,$170.65,Þingeyri Airport
+851,Vietnam,Cuba,01/27/2023,$326.65,Jersey Airport
+852,Morocco,China,08/14/2022,$633.82,Waspam Airport
+853,Hungary,Albania,08/24/2023,$238.83,Bob Quinn Lake Airport
+854,China,Indonesia,11/23/2023,$195.14,Mid Ohio Valley Regional Airport
+855,Indonesia,Brazil,07/01/2023,$385.69,Bauerfield International Airport
+856,Sweden,China,11/19/2022,$260.16,Montreal / Pierre Elliott Trudeau International Airport
+857,China,United States,10/12/2022,$693.68,Spencer Municipal Airport
+858,Russia,China,10/03/2023,$708.93,Da Nang International Airport
+859,Indonesia,China,01/28/2023,$189.96,Springfield Branson National Airport
+860,Slovenia,China,12/20/2023,$729.67,Tsushima Airport
+861,Albania,Mexico,08/01/2023,$211.77,Ebolowa Airport
+862,Colombia,Portugal,07/26/2022,$295.04,Nyac Airport
+863,Bangladesh,Guatemala,09/05/2022,$279.79,Antsalova Airport
+864,United States,Brazil,12/03/2022,$165.26,Pastos Bons Airport
+865,Mongolia,China,07/28/2023,$458.33,Kalgoorlie Boulder Airport
+866,Costa Rica,China,12/17/2022,$477.78,Kratie Airport
+867,Philippines,Philippines,08/19/2022,$559.08,Coveñas Airport
+868,China,Vietnam,11/08/2022,$369.34,Muccan Station Airport
+869,Saudi Arabia,China,06/09/2023,$555.15,Punta Gorda Airport
+870,Indonesia,Ivory Coast,10/09/2023,$137.25,Ngukurr Airport
+871,France,Indonesia,03/03/2023,$574.64,Chicago Meigs Airport
+872,Philippines,China,01/21/2023,$316.86,Tununak Airport
+873,Sierra Leone,Liberia,04/20/2023,$350.03,Robins Air Force Base
+874,Philippines,Netherlands,08/10/2022,$328.52,Bost Airport
+875,Brazil,Peru,06/10/2023,$609.31,Carnarvon Airport
+876,Nigeria,China,10/10/2023,$701.53,Puerto Lempira Airport
+877,China,Ukraine,10/05/2023,$723.70,Liuzhou Bailian Airport
+878,Macedonia,Ivory Coast,12/02/2022,$603.75,Tonopah Airport
+879,Ukraine,Kosovo,07/06/2023,$292.99,Wiesbaden Army Airfield
+880,Poland,Canada,07/04/2023,$107.27,Palmerston North Airport
+881,Madagascar,Denmark,08/04/2022,$105.28,Seldovia Airport
+882,Democratic Republic of the Congo,Argentina,10/24/2023,$587.23,Daup Airport
+883,Thailand,Bulgaria,11/05/2023,$579.11,Albacete-Los Llanos Airport
+884,Portugal,China,09/30/2023,$235.25,Douglas Lake Airport
+885,Canada,Uganda,05/02/2023,$201.32,Coles County Memorial Airport
+886,Brazil,Australia,12/03/2022,$275.76,Belfast International Airport
+887,Thailand,Portugal,04/03/2023,$622.19,Westfield-Barnes Regional Airport
+888,Indonesia,China,09/01/2022,$342.47,Duxford Aerodrome
+889,Portugal,Colombia,11/19/2023,$592.83,Grand Bahama International Airport
+890,Netherlands,China,10/08/2023,$698.94,Campbell River Airport
+891,France,Iran,09/16/2022,$701.59,Fillmore Municipal Airport
+892,Argentina,France,09/28/2023,$709.69,Moolawatana Airport
+893,Canada,Philippines,10/04/2023,$417.96,Waterloo Airport
+894,Ecuador,Peru,05/20/2023,$438.96,Tekin Airport
+895,China,Nigeria,11/11/2023,$626.30,Bolling Air Force Base
+896,Canada,Indonesia,09/04/2023,$240.07,Marshfield Municipal Airport
+897,Portugal,Poland,12/02/2023,$558.10,Stoelmanseiland Airport
+898,Thailand,Sweden,09/18/2023,$255.03,Potchefstroom Airport
+899,Russia,Portugal,12/02/2022,$446.90,Albuquerque International Sunport
+900,China,Japan,05/19/2023,$670.39,Belbek Airport
+901,Sweden,Indonesia,11/01/2023,$736.38,Oksapmin Airport
+902,France,Argentina,11/23/2023,$565.13,Pelican Seaplane Base
+903,Indonesia,South Sudan,05/29/2023,$431.58,Sarasota Bradenton International Airport
+904,El Salvador,Bangladesh,08/22/2023,$522.02,Leirin Airport
+905,France,Brazil,11/13/2023,$602.81,Bauru - Arealva Airport
+906,Bolivia,China,09/07/2022,$527.05,Aurora Municipal Airport
+907,China,Uruguay,03/15/2023,$236.96,Santa Terezinha Airport
+908,China,Philippines,07/18/2023,$286.44,Ozona Municipal Airport
+909,Russia,Vietnam,09/19/2022,$150.12,Grenchen Airport
+910,Vietnam,Brazil,07/19/2022,$529.72,Ingolstadt Manching Airport
+911,Russia,France,09/11/2022,$345.66,"Pattimura Airport, Ambon"
+912,Madagascar,Philippines,01/04/2023,$669.26,Sapmanga Airport
+913,United Kingdom,China,09/15/2023,$580.02,Shun Tak Heliport
+914,Indonesia,Ireland,03/21/2023,$490.68,Shahbaz Air Base
+915,Indonesia,Azerbaijan,07/10/2022,$375.32,Namlea Airport
+916,Peru,Tanzania,05/30/2023,$366.57,Kalbarri Airport
+917,Ukraine,Argentina,01/25/2023,$613.92,Vahitahi Airport
+918,Mongolia,China,02/09/2023,$612.04,Jiroft Airport
+919,Philippines,China,07/03/2022,$141.33,Kalokol Airport
+920,China,Russia,08/25/2023,$237.79,Jaffrey Airport Silver Ranch Airport
+921,China,Philippines,06/03/2023,$349.41,Dushanbe Airport
+922,Greece,Ukraine,11/13/2023,$191.44,Mweka Airport
+923,China,Armenia,08/12/2023,$617.45,Boulsa Airport
+924,Belarus,Greece,04/15/2023,$553.90,San Juan Del César Airport
+925,Uzbekistan,China,03/31/2023,$126.53,Captain João Busse Airport
+926,Bahrain,Azerbaijan,05/13/2023,$568.15,Tikchik Lodge Seaplane Base
+927,Philippines,China,09/12/2022,$561.56,Nanyuki Airport
+928,Indonesia,Lithuania,09/14/2022,$144.01,Louisa County Airport/Freeman Field
+929,China,Philippines,06/22/2022,$233.44,Toledo Airport
+930,Egypt,China,10/08/2022,$186.85,Ely Airport Yelland Field
+931,China,Indonesia,10/02/2022,$373.56,Battambang Airport
+932,Thailand,Indonesia,11/28/2023,$661.58,Nowra Airport
+933,Brazil,Kyrgyzstan,08/24/2022,$123.82,Velikiy Ustyug Airport
+934,China,Portugal,08/26/2023,$294.40,Hugo Cantergiani Regional Airport
+935,Egypt,Vietnam,08/18/2023,$685.32,Bultfontein Airport
+936,Philippines,Russia,09/05/2022,$284.78,Tte. Julio Gallardo Airport
+937,Indonesia,China,05/03/2023,$504.08,Huntsville Regional Airport
+938,France,Peru,07/26/2022,$253.98,Nero-Mer Airport
+939,Egypt,Nicaragua,04/16/2023,$566.20,Benalla Airport
+940,Sri Lanka,Latvia,02/05/2023,$499.37,Nottingham Airport
+941,China,China,10/20/2023,$223.92,W. H. Bramble Airport
+942,Czech Republic,China,03/30/2023,$511.75,Yerington Municipal Airport
+943,Canada,Ukraine,01/02/2023,$197.92,Hanamaki Airport
+944,Finland,China,02/13/2023,$344.27,Quetta International Airport
+945,Portugal,Indonesia,06/07/2023,$586.26,Teniente Coronel Rafael Pabón Airport
+946,Kenya,China,06/28/2022,$313.52,Takume Airport
+947,Nigeria,Indonesia,08/07/2022,$450.28,Diqing Airport
+948,Philippines,Netherlands,05/17/2023,$583.86,Riyadh Air Base
+949,France,Brazil,03/11/2023,$512.18,Door County Cherryland Airport
+950,El Salvador,Botswana,11/28/2022,$309.52,Ubrub Airport
+951,Russia,Indonesia,09/09/2023,$407.41,Namsang Airport
+952,China,Ethiopia,11/28/2023,$573.66,Tafaraoui Airport
+953,Greece,Indonesia,08/18/2023,$462.07,Macaé Airport
+954,Sweden,Philippines,07/19/2023,$297.77,Park Township Airport
+955,China,China,11/22/2022,$602.41,Camp Page Airport (A-306)
+956,Peru,Yemen,11/07/2022,$380.68,Iowa Falls Municipal Airport
+957,Indonesia,Czech Republic,11/08/2023,$209.01,Collie Airport
+958,Philippines,Indonesia,10/01/2023,$207.69,Botucatu - Tancredo de Almeida Neves Airport
+959,China,Brazil,09/20/2022,$225.50,Tampere-Pirkkala Airport
+960,Malaysia,China,03/19/2023,$397.86,Southwest Bay Airport
+961,Syria,United States,11/28/2023,$573.39,Lovell Field
+962,Kosovo,Netherlands,01/10/2023,$143.87,Fullerton Municipal Airport
+963,China,Zambia,02/06/2023,$711.43,Avaratra Airport
+964,Dominican Republic,Canada,08/30/2022,$279.63,Seshutes Airport
+965,United States,British Virgin Islands,10/29/2022,$149.41,Efogi Airport
+966,China,Philippines,12/17/2023,$585.20,Fianarantsoa Airport
+967,China,Indonesia,03/03/2023,$124.29,Achutupo Airport
+968,Poland,Portugal,09/02/2023,$644.29,Rinkenberger Restricted Landing Area
+969,Poland,Indonesia,12/29/2023,$448.07,Sibiu International Airport
+970,Czech Republic,South Africa,10/10/2023,$650.36,Park Township Airport
+971,Indonesia,Portugal,05/30/2023,$691.05,Lyudao Airport
+972,Czech Republic,Nigeria,11/16/2023,$495.45,Ulawa Airport
+973,Canada,China,06/11/2023,$549.77,Westray Airport
+974,China,Canada,12/19/2023,$712.37,Naha Airport
+975,China,Indonesia,07/22/2022,$379.96,Sei Bati Airport
+976,Sweden,Chile,03/17/2023,$230.20,Tubuai Airport
+977,Indonesia,Czech Republic,09/10/2023,$370.58,Mount Full Stop Airport
+978,China,Indonesia,08/08/2023,$192.72,Mykolaiv International Airport
+979,Switzerland,China,10/29/2022,$737.38,Carauari Airport
+980,Sweden,Mauritius,03/27/2023,$305.17,Flamingo Airport
+981,China,Palestinian Territory,04/29/2023,$368.94,Gods Lake Narrows Airport
+982,Indonesia,Ukraine,08/09/2023,$572.41,Dianópolis Airport
+983,China,Afghanistan,04/24/2023,$708.35,Koulamoutou Mabimbi Airport
+984,Philippines,Colombia,12/17/2022,$523.73,St. Mary's County Regional Airport
+985,Peru,Indonesia,07/22/2022,$533.43,Kalakaket Creek AS Airport
+986,Lithuania,Iran,03/24/2023,$432.99,Kasungu Airport
+987,Laos,France,08/09/2022,$489.84,Bou Chekif Airport
+988,Nigeria,China,11/12/2023,$303.35,La Araucanía Airport
+989,Iran,Argentina,08/16/2022,$427.17,Satu Mare Airport
+990,Portugal,Czech Republic,09/27/2022,$112.22,Varkaus Airport
+991,United States,Malaysia,12/31/2022,$266.63,Boone Municipal Airport
+992,Russia,Russia,12/30/2022,$382.51,"Taranto-Grottaglie ""Marcello Arlotta"" Airport"
+993,China,Ukraine,09/25/2022,$542.62,Forestville Airport
+994,Egypt,Russia,08/02/2022,$335.12,Rajkot Airport
+995,Chile,Brazil,01/02/2023,$286.90,Qasigiannguit Heliport
+996,Kazakhstan,Ukraine,09/18/2022,$664.11,Caledonia County Airport
+997,Poland,Indonesia,11/18/2023,$659.25,Aragarças Airport
+998,China,Ukraine,11/18/2023,$293.63,Onotoa Airport
+999,Indonesia,France,11/24/2022,$535.11,New Chitose Airport
+1000,China,Azerbaijan,09/14/2023,$460.20,Faisalabad International Airport
