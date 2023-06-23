@@ -27,10 +27,6 @@ namespace Vuelos
                 {
                     command.Connection = connection;
 
-                    // Verificar si la tabla existe, de lo contrario, crearla
-                    //ManejarTabla tableCreator = new ManejarTabla(connectionString, tabla);
-                    //tableCreator.VerificarTablaExistente();
-
                     // Leer el archivo CSV
                     using (StreamReader reader = new StreamReader(rutaArchivo))
                     {
